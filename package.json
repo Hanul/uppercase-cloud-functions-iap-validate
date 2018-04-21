@@ -1,8 +1,8 @@
 {
 	"name": "uppercase-cloud-functions-uiap",
-	"version": "0.9.3",
+	"version": "0.9.8",
 	"dependencies": {
-		"uppercase-cloud-functions": "^0.9.3"
+		"uppercase-cloud-functions": "^0.9.8"
 	},
 	"main": "index.js"
 }
